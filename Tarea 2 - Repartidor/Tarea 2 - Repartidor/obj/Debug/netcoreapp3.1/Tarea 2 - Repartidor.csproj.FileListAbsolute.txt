@@ -1,0 +1,13 @@
+C:\Users\MegaG\source\repos\Tarea 2 - Repartidor\Tarea 2 - Repartidor\bin\Debug\netcoreapp3.1\Tarea 2 - Repartidor.exe
+C:\Users\MegaG\source\repos\Tarea 2 - Repartidor\Tarea 2 - Repartidor\bin\Debug\netcoreapp3.1\Tarea 2 - Repartidor.deps.json
+C:\Users\MegaG\source\repos\Tarea 2 - Repartidor\Tarea 2 - Repartidor\bin\Debug\netcoreapp3.1\Tarea 2 - Repartidor.runtimeconfig.json
+C:\Users\MegaG\source\repos\Tarea 2 - Repartidor\Tarea 2 - Repartidor\bin\Debug\netcoreapp3.1\Tarea 2 - Repartidor.runtimeconfig.dev.json
+C:\Users\MegaG\source\repos\Tarea 2 - Repartidor\Tarea 2 - Repartidor\bin\Debug\netcoreapp3.1\Tarea 2 - Repartidor.dll
+C:\Users\MegaG\source\repos\Tarea 2 - Repartidor\Tarea 2 - Repartidor\bin\Debug\netcoreapp3.1\Tarea 2 - Repartidor.pdb
+C:\Users\MegaG\source\repos\Tarea 2 - Repartidor\Tarea 2 - Repartidor\obj\Debug\netcoreapp3.1\Tarea 2 - Repartidor.csprojAssemblyReference.cache
+C:\Users\MegaG\source\repos\Tarea 2 - Repartidor\Tarea 2 - Repartidor\obj\Debug\netcoreapp3.1\Tarea 2 - Repartidor.AssemblyInfoInputs.cache
+C:\Users\MegaG\source\repos\Tarea 2 - Repartidor\Tarea 2 - Repartidor\obj\Debug\netcoreapp3.1\Tarea 2 - Repartidor.AssemblyInfo.cs
+C:\Users\MegaG\source\repos\Tarea 2 - Repartidor\Tarea 2 - Repartidor\obj\Debug\netcoreapp3.1\Tarea 2 - Repartidor.csproj.CoreCompileInputs.cache
+C:\Users\MegaG\source\repos\Tarea 2 - Repartidor\Tarea 2 - Repartidor\obj\Debug\netcoreapp3.1\Tarea 2 - Repartidor.dll
+C:\Users\MegaG\source\repos\Tarea 2 - Repartidor\Tarea 2 - Repartidor\obj\Debug\netcoreapp3.1\Tarea 2 - Repartidor.pdb
+C:\Users\MegaG\source\repos\Tarea 2 - Repartidor\Tarea 2 - Repartidor\obj\Debug\netcoreapp3.1\Tarea 2 - Repartidor.genruntimeconfig.cache
